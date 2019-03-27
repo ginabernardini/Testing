@@ -10,3 +10,4 @@ Email: gina.bernardini@spartans.ut.edu
 
 ## About Me
 
+I like art and math.
